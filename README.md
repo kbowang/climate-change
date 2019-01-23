@@ -1,5 +1,5 @@
 # climate-change
-Data Science project
+Data Science Project 2
 
 - Merged two data sets together and created a choropleth map showing the change in years with a slider
 - Rough work all in jupyter notebok
